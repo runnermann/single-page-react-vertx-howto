@@ -1,5 +1,5 @@
 # REACT + Vert.x + Typescript this is the dream.
-###As of March 2025 - Impractical: This is in the hard to do category. A good side project but not to rely on for production. At least
+## As of March 2025 - Impractical: This is in the hard to do category. A good side project but not to rely on for production. At least
 not yet.
 * Using Typescript:
   * In order to use Typescript we have to use GRAALVM which gives the JVM the ability to be polyglot.
