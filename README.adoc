@@ -1,3 +1,19 @@
+# REACT + Vert.x + Typescript this is the dream.
+###As of March 2025 - Impractical: This is in the hard to do category. A good side project but not to rely on for production. At least
+not yet.
+* Using Typescript:
+  * In order to use Typescript we have to use GRAALVM which gives the JVM the ability to be polyglot.
+  * GRAALVM is not well supported. It was an experimental project at Oracle.
+  * It uses an older version of Typescript.
+
+ * Although this would provide flexability as well as a well established low cost and performant backend, the challenges
+ to implement REACT and Vert.x are not well understood. There are very few people who are using it thus
+ the community is nacent.
+
+ * If typescript is important, just use React. If development and libraries make it easier to develope in React, then use it.
+  Otherwise Vert.x
+
+
 = Single Page Application development with React and Vert.x
 :page-permalink: /
 :page-github: vertx-howtos/single-page-react-vertx-howto

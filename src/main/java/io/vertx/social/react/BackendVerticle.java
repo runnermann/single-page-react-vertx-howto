@@ -1,4 +1,4 @@
-package io.vertx.howtos.react;
+package io.vertx.social.react;
 
 import io.vertx.core.Future;
 import io.vertx.core.VerticleBase;

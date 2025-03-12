@@ -21,7 +21,7 @@ dependencies {
 
 // tag::application-main[]
 application {
-  mainClass = "io.vertx.howtos.react.BackendVerticle"
+  mainClass = "io.vertx.social.react.BackendVerticle"
 }
 // end::application-main[]
 

@@ -1,4 +1,4 @@
-theme: vertx-howtos-jekyll-theme
+theme: vertx-social-jekyll-theme
 url: https://vertx-howtos.github.io/single-page-react-vertx-howto
 
 asciidoctor:
