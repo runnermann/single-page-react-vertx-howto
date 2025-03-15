@@ -1,0 +1,40 @@
+@import "tailwindcss/preflight";
+@tailwind utilities;
+
+body {
+  font-family: "Courier New", monospace;
+  background-color: #f8f9fa;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+}
+
+.typeWriterText{
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.input-font {
+  font-size: 1.2rem;
+}
+
+.input-fld {
+  border: none;
+  border-bottom: 2px solid black;
+  outline: none;
+}
+
+.input-fld:hover {
+  outline: none;
+  border: none;
+  border-bottom: 2px solid black;
+}
+
+
